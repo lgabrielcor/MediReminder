@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MediReminder</string>
+
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_second_activity">second_activity</string>
+    <string name="segunda_actividad_name">segunda actividad</string>
+    <string name="medireminder_title">MediReminder</string>
+    <string name="nombre_title">Nombre:</string>
+    <string name="nombre_value">nombre_value_para_datos</string>
+    <string name="padecimiento_name">Padecimiento:</string>
+    <string name="ir_a_segunda_actividad">Ir a segunda actividad</string>
+    <string name="fecha_text">Fecha: 16 de julio de 2015</string>
+    <string name="padecimiento_value">Small Text</string>
+    <string name="modificar_dosis_btn_name">Modificar dosis</string>
+    <string name="photo_med">PhotoMed</string>
+    <string name="borrar_medicacion">Borrar Medicación</string>
+    <string name="title_activity_new_medicament">Nuevo Medicamento</string>
+    <string name="title_activity_history_dose">history_dose</string>
+    <string name="title_activity_home">Home</string>
+    <string name="nueva_medicacion_tittle">Nueva medicación</string>
+    <string name="mostrar_medicaciones">Mostrar las medicaciones</string>
+    <string name="medicacion_tittle">Medicación</string>
+    <string name="title_activity_dummyformulario">dummyformulario</string>
+    <string name="medicamento_lbl">Medicamento</string>
+    <string name="addnew_tittle">Detalles de medicación</string>
+    <string name="img_med_lbl">Imagen del medicamento</string>
+
+    <string-array name="array_freq">
+        <item>minutos</item>
+        <item>Horas</item>
+        <item>días</item>
+        <item>semanas</item>
+        <item>meses</item>
+    </string-array>
+</resources>

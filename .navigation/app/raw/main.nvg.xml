@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "app.lugcor.co.com.medireminder.view.Medicament_Detail"/>
+      <point      
+        x = "1708"      
+        y = "780"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "app.lugcor.co.com.medireminder.view.Medicament_Detail"/>
+      <point      
+        x = "2936"      
+        y = "724"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "app.lugcor.co.com.medireminder.view.New_Medicament"/>
+      <point      
+        x = "3716"      
+        y = "420"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "app.lugcor.co.com.medireminder.view.New_Medicament"/>
+      <point      
+        x = "2876"      
+        y = "44"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "app.lugcor.co.com.medireminder.view.History_Dose"/>
+      <point      
+        x = "1640"      
+        y = "2320"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "app.lugcor.co.com.medireminder.view.History_Dose"/>
+      <point      
+        x = "2896"      
+        y = "936"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "app.lugcor.co.com.medireminder.view.MainActivity"/>
+      <point      
+        x = "116"      
+        y = "152"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "app.lugcor.co.com.medireminder.view.MainActivity"/>
+      <point      
+        x = "2884"      
+        y = "304"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "app.lugcor.co.com.medireminder.view.history_dose"/>
+      <point      
+        x = "500"      
+        y = "4240"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "app.lugcor.co.com.medireminder.view.history_dose"/>
+      <point      
+        x = "1768"      
+        y = "4240"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

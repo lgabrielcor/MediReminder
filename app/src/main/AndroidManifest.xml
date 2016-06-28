@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.lugcor.co.com.medireminder" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".view.Home"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".view.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".view.Medicament_Detail"
+            android:label="@string/title_activity_second_activity" >
+        </activity>
+        <activity
+            android:name=".view.New_Medicament"
+            android:label="@string/title_activity_new_medicament" >
+        </activity>
+        <activity
+            android:name=".view.History_Dose"
+            android:label="@string/title_activity_history_dose" >
+        </activity>
+
+        <service
+            android:name=".controller.CentinelaService"
+            android:enabled="true"
+            android:exported="true" >
+        </service>
+
+    </application>
+
+</manifest>
